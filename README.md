@@ -1,7 +1,7 @@
 # itsMyCode
 Package to prove that you built the app<br>
-You developed lot of laravel/lumen web app and tired of about page or somthing like that ?<br>
-Ok , just write your Github Username , everything is ready in  "XXX.com/prove" or "XXX.com/prove/GITHUB_USERNAME"  :)
+You developed lot of laravel/lumen web app and tired of about page or something like that ?<br>
+Ok , just write your Github Username , everything is ready in beautifull view in  "XXX.com/prove" or "XXX.com/prove/GITHUB_USERNAME" that you can use it for your resume or showing to new clients .
 <br>
 
 

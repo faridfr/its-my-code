@@ -1,0 +1,34 @@
+{
+    "name": "faridfr/its-my-code",
+    "description": "Package to prove that you built this app",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farid Froozan",
+            "email": "froozan@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "faridfr\\itsMyCode\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "faridfr\\itsMyCode\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.6-dev"
+        },
+        "laravel": {
+            "providers": [
+                "faridfr\\itsMyCode\\ItsMyCodeServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
